@@ -1,2 +1,1 @@
-# EDE
-Rayleigh scattering constraints on EDE
+Impact of Rayleigh scattering on constraints on EDE models. 
